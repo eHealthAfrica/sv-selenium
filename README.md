@@ -1,7 +1,6 @@
 # sv-selenium (eHealthAfrica flavored)
 
 * tools to install/use selenium
-
 * forked from [https://github.com/sebv/sv-selenium](https://github.com/sebv/sv-selenium)
 to update with new selenium releases
 
@@ -25,6 +24,8 @@ npm run start_selenium_with_chromedriver
 ## Release
 
 * Update version numbers in `bin/install_selenium` and `bin/install_chromedriver`
+* bump version in `package.json`
+* `npm adduser` with the ehealthafrica credentials (NPM tab in spreadsheet)
 * Release from the CLI with `npm publish`
 
 ## License
