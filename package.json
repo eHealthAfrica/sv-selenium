@@ -1,7 +1,7 @@
 {
-  "name": "sv-selenium",
+  "name": "ehealthafrica-sv-selenium",
   "description": "tools to install/use selenium",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "homepage": "https://github.com/seb/sv-selenium",
   "author": {
     "name": "Sebastien Vincent",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/seb/sv-selenium.git"
+    "url": "git://github.com/eHealthAfrica/sv-selenium.git"
   },
   "licenses": [
     {
