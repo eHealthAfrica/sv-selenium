@@ -1,7 +1,7 @@
 {
   "name": "ehealthafrica-sv-selenium",
   "description": "tools to install/use selenium",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "homepage": "https://github.com/seb/sv-selenium",
   "author": {
     "name": "Sebastien Vincent",
